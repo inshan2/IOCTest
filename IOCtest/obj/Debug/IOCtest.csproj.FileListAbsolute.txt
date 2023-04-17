@@ -1,0 +1,7 @@
+C:\Users\Inshan\source\repos\IOCtest\IOCtest\bin\Debug\IOCtest.exe.config
+C:\Users\Inshan\source\repos\IOCtest\IOCtest\bin\Debug\IOCtest.exe
+C:\Users\Inshan\source\repos\IOCtest\IOCtest\bin\Debug\IOCtest.pdb
+C:\Users\Inshan\source\repos\IOCtest\IOCtest\obj\Debug\IOCtest.csprojAssemblyReference.cache
+C:\Users\Inshan\source\repos\IOCtest\IOCtest\obj\Debug\IOCtest.csproj.CoreCompileInputs.cache
+C:\Users\Inshan\source\repos\IOCtest\IOCtest\obj\Debug\IOCtest.exe
+C:\Users\Inshan\source\repos\IOCtest\IOCtest\obj\Debug\IOCtest.pdb
