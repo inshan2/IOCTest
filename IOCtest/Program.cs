@@ -13,7 +13,7 @@ namespace IOCtest
         {
 
             var user = new User(new OracleDataBase());
-            user.Add("i am data");
+            user.Add("data");
             Console.Read();
          
         }
