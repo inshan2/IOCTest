@@ -43,7 +43,7 @@ namespace IOCtest
         void IDatabase.Persist(string message)
         {
             _message = message;
-            Console.WriteLine("Sql has some data " + message);
+            Console.WriteLine("Sql has some " + message);
         }
 
     }
@@ -53,7 +53,7 @@ namespace IOCtest
         void IDatabase.Persist(string message)
         {
             _message = message;
-            Console.WriteLine("oracle has some data " + message);
+            Console.WriteLine("oracle has some " + message);
         }
 
 
